@@ -6,3 +6,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himjjong)](https://github.com/himjjong/github-readme-stats)
+
+* linguist-vendored
+*.java linguist-vendored=false
