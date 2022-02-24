@@ -14,8 +14,9 @@
 
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmsbio%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=vistor&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=My%3-stats&fontSize=50)
-[![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=himjjong&show_icons=true&theme=purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himjjong)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=himjjong&show_icons=true&theme=purple)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmsbio%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
