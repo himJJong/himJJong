@@ -10,6 +10,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=My%3-stats&fontSize=45)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himjjong&layout=compact&theme=auto&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   ![Anurag's Github stats](https://github-readme-stats.vercel.app/api?username=himjjong&show_icons=true&theme=purple)
