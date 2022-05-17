@@ -1,7 +1,6 @@
 <div align="center">
 <h2>Jongseok's Github👨‍💻
 <h3 align="center"><b>🛠 Target this Tech Stack for this Year 🛠</b></h3>
-</br>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
