@@ -13,9 +13,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines="If+things+are+not+falling";"you+are+not+innovating+enough!")](https://git.io/typing-svg)
  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjijji5728)](https://solved.ac/jjijji5728)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=himJJong)](https://github.com/himJJong/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himjjong&layout=compact&theme=auto&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
   
+
   
 ---
 ## 📩 Contact 📩 
