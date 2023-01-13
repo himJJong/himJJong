@@ -16,3 +16,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himjjong&layout=compact&theme=auto&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjijji5728)](https://solved.ac/jjijji5728)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkmsbio%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com):fire:
+
+## 📩 Contact 📩 
+
+<a href="mailto:jjijji5728@tukorea.ac.kr" target="_blank"><img src="https://img.shields.io/badge/gmail-FFFFFF?style=for-the-badge&logo=Gmail&logoColor=red">
