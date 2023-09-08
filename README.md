@@ -10,10 +10,15 @@
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white"> 
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines="If+things+are+not+falling";"you+are+not+innovating+enough!")](https://git.io/typing-svg)
- 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jjijji5728)](https://solved.ac/jjijji5728)
-  
+<p align="center">
+    <a href="https://solved.ac/jjijji5728">
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jjijji5728" height="175"/>
+    </a>
+    <a href="https://www.codetree.ai/profiles/jjijji5728">
+        <img src="https://banner.codetree.ai/v1/banner/jjijji5728" height="175" hspace="20"/>
+    </a>
+</p>
+
 
   
 ---
