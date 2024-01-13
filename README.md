@@ -19,17 +19,14 @@
 <br><br>
 <br><br>
 #### 🥇 Main Skills
-<img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/The Algorithms-00BCB4?style=flat&logo=The Algorithms&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
+<img src="https://img.shields.io/badge/The Algorithms-00BCB4?style=flat&logo=The Algorithms&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/> 
 <br><br>
 
 #### 🔥 Study
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Amazon Aws-232F3E?style=flat&logo=Amazon Aws&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon Aws-232F3E?style=flat&logo=Amazon Aws&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> 
 <br><br>
 
 #### 🧑‍🤝‍🧑 Tools 
