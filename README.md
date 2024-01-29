@@ -13,10 +13,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Jongseok+Kwon;Becoming+a+Backend+Engineer" alt="Typing SVG" /></a>
 
 </div>
-
-
-
 <br><br>
+
+##### | Focus On
+- Java, Spring Boot, Algorithm
+
+##### | Recent Study
+- Kubernetes, Mysql8.0, Test coverage 
+
 <br><br>
 #### 🥇 Main Skills
 <img src="https://img.shields.io/badge/Java-3776AB?style=flat&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white"/>
