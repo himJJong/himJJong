@@ -16,10 +16,14 @@
 <br><br>
 
 ##### | Focus On
-- Java, Spring Boot, Algorithm
+- Java
+- Spring Boot
+- Coding Test
 
 ##### | Recent Study
-- Kubernetes, Mysql8.0, Test coverage 
+- Kubernetes
+- Mysql8.0
+- Test coverage 
 
 <br><br>
 #### 🥇 Main Skills
