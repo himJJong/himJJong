@@ -15,12 +15,12 @@
 </div>
 <br><br>
 
-##### | Focus On
+#### | Focus On
 - Java
 - Spring Boot
 - Coding Test
 
-##### | Recent Study
+#### | Recent Study
 - Kubernetes
 - Mysql8.0
 - Test coverage 
