@@ -18,11 +18,12 @@
 #### | Focus On
 - Java
 - Spring Boot
-- Coding Test
+- Algorithm
+- Kubernetes
 
 #### | Recent Study
-- Kubernetes
-- Mysql8.0
+- CKA
+- Toy Project
 - Test coverage 
 
 <br><br>
