@@ -24,7 +24,7 @@
 #### | Recent Study
 - CKA
 - Toy Project
-- Test coverage 
+- Baekjoon, Programmers
 
 <br><br>
 #### 🥇 Main Skills
