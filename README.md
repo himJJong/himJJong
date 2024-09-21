@@ -22,14 +22,14 @@
 - Kubernetes
 
 #### | Recent Study
+- CodeTree, Programmers
+- Resume
 - CKA
-- Toy Project
-- Baekjoon, Programmers
 
-#### | Certification
+#### | Certificate
 - Engineer Information Processing
-- SQLD 예정 (24.08.24)
-- CKA  예정 (24.09 ~ 24.10)
+- SQLD
+- CKA (24.10 ~ 24.11)
 
 <br><br>
 #### 🥇 Main Skills
