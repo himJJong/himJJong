@@ -20,13 +20,12 @@
 - Spring Boot
 - Algorithm
 - Kubernetes
-- Object Oriented Programming
 
 #### | Recent Study
-- CodeTree, Programmers
-- Coding Test
+- Group Study(Coding Test & Book)
 - CS & Java
 - Personal assignment develop
+- Object Oriented Programming
 
 #### | Certificate
 - Engineer Information Processing
