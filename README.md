@@ -17,20 +17,19 @@
 
 #### | Focus On
 - Java
-- Spring Boot
+- Object Oriented Programming
 - Algorithm
-- Kubernetes
 
 #### | Recent Study
 - Group Study(Coding Test & Book)
 - CS & Java
-- Personal assignment develop
-- Object Oriented Programming
+- 자바/스프링 개발자를 위한 실용주의 프로그래밍
+- 도메인 주도 개발 시작하기
+- SQL 레벨업
 
 #### | Certificate
 - Engineer Information Processing
 - SQLD
-- CKA (24.10 ~ 24.11)
 
 <br><br>
 #### 🥇 Main Skills
